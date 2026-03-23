@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778360596800",
+    "project_id": "school-task-planner",
+    "storage_bucket": "school-task-planner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778360596800:android:fd06db90c704fb158872a5",
+        "android_client_info": {
+          "package_name": "com.example.school_task_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuciSCsQY1AnRgHR0teKXOZ97gE5czeEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
